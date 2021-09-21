@@ -3,7 +3,7 @@ FairShare: Blockchain Proof of Attribution
 
 [fairshare.company](https://fairshare.company)
 
-> **Abstract:** Removing _trust_ in collaborative creative projects by means of Blockchain technology ensures individual participants receive permanent attribution for their contribution to the overall work. Once a contribution is accepted, credit is paid out to the contributor in the form of crypto tokens. These tokens may be used to facilitate smart-contract micropayments or to enforce proprietary rights, as in a court of law. The possession of digital keys, as they pertain to all common crypto accounts, prove token ownership. Anyone owning a stake in a digital project has the free discretion to market their tokens and any smart-contract royalties to which they may be entitled. The permanent nature of a blockchain makes it the ideal platform for encoding attribution rights over a digital property.
+> **Abstract:** Removing _trust_ in collaborative creative projects by means of Blockchain technology ensures individual participants receive permanent attribution for their contribution to the overall work. Once a contribution is accepted, credit is paid out to the contributor in the form of crypto tokens. These tokens may be used to facilitate smart-contract micropayments or to enforce proprietary rights, as in a court of law. The possession of digital keys, as they pertain to all common crypto accounts, prove token ownership. Anyone owning a stake in a digital project has the free discretion to market their tokens and any smart-contract royalties to which they may be entitled. The permanent nature of a blockchain makes it the ideal platform for encoding proprietary attribution rights over a digital property.
 
 # 1. Introduction
 
