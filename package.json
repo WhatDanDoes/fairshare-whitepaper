@@ -1,0 +1,23 @@
+{
+  "name": "fairshare-whitepaper",
+  "version": "1.0.0",
+  "description": "FairShare Whitepaper static site",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhatDanDoes/fairshare-whitepaper.git"
+  },
+  "author": "Daniel Bidulock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhatDanDoes/fairshare-whitepaper/issues"
+  },
+  "homepage": "https://github.com/WhatDanDoes/fairshare-whitepaper#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
