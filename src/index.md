@@ -19,7 +19,7 @@ Computers like these exist. We call them blockchains. Bitcoin is a blockchain, b
 
 <section>
   <aside class="slides">
-    <iframe src="https://slides.fairshare.company" title="FairShare slides">
+    <iframe src="https://slides.bscc.dev" title="FairShare slides">
       <p>Your browser does not support iframes.</p>
     </iframe>
   </aside>
